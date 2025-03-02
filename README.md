@@ -7,7 +7,7 @@ Requisitos
 
 Uso
 
-Ejecuta el script conversor.py
+Ejecuta el script CONVERTIDOR-UNIDADES.py
 
 ¿Cómo funciona?
 
